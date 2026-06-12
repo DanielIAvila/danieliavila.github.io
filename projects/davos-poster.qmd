@@ -1,0 +1,10 @@
+---
+title: "WBF-Davos"
+description: "Live overview of the work presented at the World Biodiversity Forum in 2026."
+date: "2026-06-12"
+categories: [Conference, Biodiversity, Metrics, LCA, EEMRIO]
+---
+
+### Presentation Materials
+* [Download Presentation Poster (PDF)] <!-- (../assets/davos_2026_poster.pdf) -->
+* [Download First Pre-print (PDF)](https://ecoevorxiv.org/repository/view/9107/) 

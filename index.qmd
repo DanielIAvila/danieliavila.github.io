@@ -1,0 +1,31 @@
+---
+title: "Daniel IAO"
+subtitle: "Academic & Consultant"
+about:
+  template: trestles
+  image-width: 14em
+  image-shape: round
+  links:
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0002-0394-3827
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/YOUR-LINKEDIN-USERNAME
+    - icon: github
+      text: GitHub
+      href: https://github.com/danieliavila
+    - icon: envelope
+      text: Email
+      href: "mailto:daniel.avila@su.se"
+---
+
+
+## Overview
+Welcome to my research and consultancy portfolio. My work focuses on ---------------------------------------------------.
+
+This portal serves as an interactive hub for my on-going projects, including materials prepared for the **World Biodiversity Forum at Davos, Switzerland**.
+
+## Key Focus Areas
+* **-----:**
+* **-----:**
+* **Corporate Sustainability:** 

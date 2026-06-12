@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Daniel IAO"
+  navbar:
+    background: light
+    collapse: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: projects.qmd
+        text: Research & Projects
+      - href: databases.qmd
+        text: Interactive Tools
+      - href: consultancy.qmd
+        text: Consultancy
+    right: 
+      - text: "{{< ai orcid >}}"
+        href: https://orcid.org/0000-0002-0394-3827
+      - icon: linkedin
+        href: https://linkedin.com/in/daniel-itzamna-avila-ortega        
+      - icon: github
+        href: https://github.com/danieliavila
+ 
+
+format:
+  html:
+    theme:
+      - cosmo
+      #- brand
+    css: styles.css
+    toc: true
+
+
+
