@@ -4,35 +4,35 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "A curated selection of my ongoing academic research.\n\n\n\n\n\n\n\n\n\n\n\n\nart2-phd\n\n\n\n\n\n\n\n\n\n\n\n\n\nAccounting for biodiversity impacts of consumption and production: current gaps and frontiers.\n\n\n\nArticle\n\nBiodiversity\n\nMetrics\n\nLCA\n\nEEMRIO\n\n\n\n\n\n\nJun 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nPlanetary Boundaries Embedded in Trade.\n\n\n\nArticle\n\nPlanetary Boundaries\n\nEEMRIO\n\nMetrics\n\n\n\n\n\n\nJun 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nPlanetary Boundaries Embedded in Trade.\n\n\n\nArticle\n\nLCA\n\nStudy Case\n\nAgriculture\n\nMexico\n\n\n\n\n\n\nJun 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nWBF-Davos\n\n\n\nConference\n\nBiodiversity\n\nMetrics\n\nLCA\n\nEEMRIO\n\n\n\nLive overview of the work presented at the World Biodiversity Forum in 2026. We submitted\n\n\n\nJun 12, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "A curated selection of my ongoing academic research.\n\n\n\n\n\n\n\n\n\n\n\n\nAccounting for biodiversity impacts of consumption and production: current gaps and frontiers.\n\n\n\nArticle\n\nConference\n\nBiodiversity\n\nMetrics\n\nLCA\n\nEEMRIO\n\n\n\n\n\n\nJun 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nThe Hidden Cost of Biodiversity and Land Use: How Ecological Models Shape our Biodiversity Metrics.\n\n\n\nArticle\n\nBiodiversity\n\nMetrics\n\nLCA\n\nTerrestrial\n\nSpecies\n\n\n\n\n\n\nJun 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nPlanetary Boundaries Embedded in Trade.\n\n\n\nArticle\n\nPlanetary Boundaries\n\nEEMRIO\n\nMetrics\n\n\n\n\n\n\nJun 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nSustainable Agriculture and Planetary Boundaries: Exploring the Socioeconomic and Socio-ecological footprints of Mexico’s Agricultural Sector.\n\n\n\nArticle\n\nLCA\n\nStudy Case\n\nAgriculture\n\nMexico\n\nSES\n\nIIASA\n\n\n\n\n\n\nJun 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nWBF-Davos\n\n\n\nConference\n\nBiodiversity\n\nMetrics\n\nLCA\n\nEEMRIO\n\n\n\nLive overview of the work presented at the World Biodiversity Forum in 2026. We submitted\n\n\n\nJun 12, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/art5-phd.html",
     "href": "research/art5-phd.html",
-    "title": "Planetary Boundaries Embedded in Trade.",
+    "title": "Sustainable Agriculture and Planetary Boundaries: Exploring the Socioeconomic and Socio-ecological footprints of Mexico’s Agricultural Sector.",
     "section": "",
-    "text": "Description\n\nDownload harmonised database (early view, SQL)"
+    "text": "Description\nConventional agriculture, with its heavy reliance on agrochemicals, technology and extensive practices, poses significant threats to biodiversity, human health, and largely contributes to climate change, biodiversity loss and land use change. Yet, its role in providing widespread and affordable food is undeniable, creating a critical dichotomy with alternative, agroecological systems. The transition to sustainable farming is fraught with challenges, including high labour demands and (bio)inputs, and structural barriers, highlighting the urgent need for new approaches. Particularly, since both systems underpin differentiated socio-economic and socioecological profiles in their production practices.\nTo understand the real diversity and complexity of these agricultural practices, we processed a dataset covering more than 50,000 Mexican farms. We assembled farming archetypes based on observed practices, to which we coupled socioeconomic and socio-ecological footprints.\nOBS! This work took place while attending the Young Scientists Summer Program at the International Institute for Applied Systems Analysis (IIASA). A Preliminary harmonised dataset is available.\n\nHistorical Agronomic Dataset - Insights from Mexico (2012 - 2022). Expanded and harmonized version. (early view, SQL)"
+  },
+  {
+    "objectID": "research/art2-phd.html",
+    "href": "research/art2-phd.html",
+    "title": "The Hidden Cost of Biodiversity and Land Use: How Ecological Models Shape our Biodiversity Metrics.",
+    "section": "",
+    "text": "Description\nLand-use and land-use change (LULUC) remain the primary drivers of terrestrial biodiversity loss globally. Quantifying these impacts has a long-standing tradition within frameworks like Life Cycle Assessment (LCA) and Environmentally Extended Multi-Regional Input-Output (EE-MRIO) models. Yet, many of these frameworks have different entry points to assess the cause-effect chains that LULUC have on species and ecosystems.\nIn this piece, we assess and compare 11 biodiversity metrics at the ecoregion level at the global scale for five species groups (amphibians, birds, mammals, reptiles and vascular plants). With this endevour we aim to uncover where models (dis)agree and why.\nOBS! We are actively working on this piece and the submission should take place during the summer. Stay tunned for the pre-print and the associated database."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Daniel IAO",
     "section": "",
-    "text": "Welcome to my research, consultancy and opinion portfolio. My work focuses on sustainability sciences at large with a special focus on industrial ecology, social-ecological systems and social ecology. While I mostly engage with quantitative analyses, I have also explored and applied qualitative methodologies spanning workshops, reviews, interviews, among others. At my core, I approach this with a complex systems lens.\nThis portal serves as an interactive hub for my on-going projects, including materials prepared for the World Biodiversity Forum at Davos, Switzerland.\nMy ongoing projects are mostly associated with my PhD at the Stockholm Resilience Centre | Stockholm University, including:\n\n\n\nAccounting for biodiversity impacts of consumption and production: current gaps and frontiers.\nThe Hidden Cost of Biodiversity and Land Use: How Ecological Models Shape our Biodiversity Metrics.\nPlanetary Bundles Embedded in trade.\nHistorical Agronomic Dataset - Insights from Mexico (2012 - 2022). Expanded and harmonized version."
+    "text": "Welcome to my research, consultancy and opinion portfolio. My work focuses on sustainability sciences at large with a special focus on industrial ecology, social-ecological systems and social ecology. While I mostly engage with quantitative analyses, I have also explored and applied qualitative methodologies spanning workshops, reviews, interviews, among others. At my core, I approach this with a complex systems lens.\nThis portal serves as an interactive hub for my on-going projects, including materials prepared for the World Biodiversity Forum at Davos, Switzerland.\nMy ongoing projects are mostly associated with my PhD at the Stockholm Resilience Centre | Stockholm University, including:\n\n\n\nAccounting for biodiversity impacts of consumption and production: current gaps and frontiers.\nThe Hidden Cost of Biodiversity and Land Use: How Ecological Models Shape our Biodiversity Metrics.\nSustainable Agriculture and Planetary Boundaries: Exploring the Socioeconomic and Socio-ecological footprints of Mexico’s Agricultural Sector.\n\n\n\n\n\nBachelor’s Programme in Business, Ethics and Sustainability\n\nThe biosphere and humankind\nCorporations and sustainable development in the Anthropocene I\nCorporations and sustainable development in the Anthropocene II\n\n\n\n\n\n\nComplex Systems\nCorporate Sustainability\nNetworks and Data\nJustice, Inequality, Equity\n\n\n\n```"
   },
   {
     "objectID": "index.html#overview",
     "href": "index.html#overview",
     "title": "Daniel IAO",
     "section": "",
-    "text": "Welcome to my research, consultancy and opinion portfolio. My work focuses on sustainability sciences at large with a special focus on industrial ecology, social-ecological systems and social ecology. While I mostly engage with quantitative analyses, I have also explored and applied qualitative methodologies spanning workshops, reviews, interviews, among others. At my core, I approach this with a complex systems lens.\nThis portal serves as an interactive hub for my on-going projects, including materials prepared for the World Biodiversity Forum at Davos, Switzerland.\nMy ongoing projects are mostly associated with my PhD at the Stockholm Resilience Centre | Stockholm University, including:\n\n\n\nAccounting for biodiversity impacts of consumption and production: current gaps and frontiers.\nThe Hidden Cost of Biodiversity and Land Use: How Ecological Models Shape our Biodiversity Metrics.\nPlanetary Bundles Embedded in trade.\nHistorical Agronomic Dataset - Insights from Mexico (2012 - 2022). Expanded and harmonized version."
-  },
-  {
-    "objectID": "index.html#teaching",
-    "href": "index.html#teaching",
-    "title": "Daniel IAO",
-    "section": "### Teaching",
-    "text": "### Teaching"
+    "text": "Welcome to my research, consultancy and opinion portfolio. My work focuses on sustainability sciences at large with a special focus on industrial ecology, social-ecological systems and social ecology. While I mostly engage with quantitative analyses, I have also explored and applied qualitative methodologies spanning workshops, reviews, interviews, among others. At my core, I approach this with a complex systems lens.\nThis portal serves as an interactive hub for my on-going projects, including materials prepared for the World Biodiversity Forum at Davos, Switzerland.\nMy ongoing projects are mostly associated with my PhD at the Stockholm Resilience Centre | Stockholm University, including:\n\n\n\nAccounting for biodiversity impacts of consumption and production: current gaps and frontiers.\nThe Hidden Cost of Biodiversity and Land Use: How Ecological Models Shape our Biodiversity Metrics.\nSustainable Agriculture and Planetary Boundaries: Exploring the Socioeconomic and Socio-ecological footprints of Mexico’s Agricultural Sector.\n\n\n\n\n\nBachelor’s Programme in Business, Ethics and Sustainability\n\nThe biosphere and humankind\nCorporations and sustainable development in the Anthropocene I\nCorporations and sustainable development in the Anthropocene II\n\n\n\n\n\n\nComplex Systems\nCorporate Sustainability\nNetworks and Data\nJustice, Inequality, Equity\n\n\n\n```"
   },
   {
     "objectID": "about.html",
@@ -46,14 +46,14 @@
     "href": "consulting.html",
     "title": "Consulting",
     "section": "",
-    "text": "A curated selection of my past and ongoing private and public consulting.\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "A curated selection of my past and ongoing private and public consulting.\n\n\n\n\n\n\n\n\n\n\n\n\nsbt\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/art1-phd.html",
     "href": "research/art1-phd.html",
     "title": "Accounting for biodiversity impacts of consumption and production: current gaps and frontiers.",
     "section": "",
-    "text": "Description\n\n[Download Davos Poster (PDF)] \nDownload First Pre-print (PDF)"
+    "text": "Description\nCurrent production and consumption patterns are the primary drivers of global biodiversity loss. While companies and governments increasingly attempt to calculate their “biodiversity footprints”, the metrics they rely on are vast, wide and diverse.\nTo understand the landscape of biodiversity footprinting, we conducted a systematic map using NLP models (not AI!) to filter over 1.2 million scientific records aiming at identifying “what is measured and how” when we talk about impacts on biodiversity.\nOBS! We are actively working on this piece after a peer-review round. Stay tunned for the pre-print and the associated database.\n\n\nDownload Pre-print (PDF; in peer-review)"
   },
   {
     "objectID": "research/art3-phd.html",
