@@ -84,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-date','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -177,7 +177,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q2xpbWF0ZSUyMENoYW5nZQ==">Climate Change <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29uc3VsdGluZw==">Consulting <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29ycG9yYXRlJTIwU3VzdGFpbmFiaWxpdHk=">Corporate Sustainability <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U0JU">SBT <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -207,16 +207,31 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1781432146183" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="g-col-1" data-index="0" data-categories="Q29uc3VsdGluZyUyQ0NsaW1hdGUlMjBDaGFuZ2UlMkNDb3Jwb3JhdGUlMjBTdXN0YWluYWJpbGl0eSUyQ1NCVA==" data-listing-date-sort="1781215200000" data-listing-file-modified-sort="1781474023082" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <a href="./consulting/sbt.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-sbt
+Science-Based Targets
 </h5>
-<div class="card-text listing-description delink">
+<div class="listing-categories">
 
+<div class="listing-category" onclick="window.quartoListingCategory('Q29uc3VsdGluZw=='); return false;">Consulting</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q2xpbWF0ZSUyMENoYW5nZQ=='); return false;">Climate Change</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q29ycG9yYXRlJTIwU3VzdGFpbmFiaWxpdHk='); return false;">Corporate Sustainability</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('U0JU'); return false;">SBT</div>
+
+</div>
+<div class="card-text listing-description delink">
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 12, 2026
+</div>
 </div>
 </div>
 </div></a>
