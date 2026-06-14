@@ -1,8 +1,16 @@
 [
   {
-    "listing": "/projects.html",
+    "listing": "/research.html",
     "items": [
-      "/projects/davos-poster.html"
+      "/research/art2-phd.html",
+      "/research/art1-phd.html",
+      "/research/art3-phd.html",
+      "/research/art5-phd.html",
+      "/research/davos-poster.html"
     ]
+  },
+  {
+    "listing": "/consulting.html",
+    "items": []
   }
 ]

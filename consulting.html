@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Daniel IAO</title>
+<title>Consulting – Daniel IAO</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,10 +33,13 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -71,7 +74,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -94,7 +155,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -102,7 +163,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./consulting.html"> 
+    <a class="nav-link active" href="./consulting.html" aria-current="page"> 
 <span class="menu-text">Consulting</span></a>
   </li>  
 </ul>
@@ -129,86 +190,54 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-  <ul>
-  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a>
-  <ul class="collapse">
-  <li><a href="#research" id="toc-research" class="nav-link" data-scroll-target="#research">Research</a></li>
-  </ul></li>
-  <li><a href="#teaching" id="toc-teaching" class="nav-link" data-scroll-target="#teaching">### Teaching</a></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
+<main class="content column-page-left" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Daniel IAO</h1>
-<p class="subtitle lead">Academic &amp; Consultant</p>
+<h1 class="title">Consulting</h1>
 </div>
-<div class="quarto-title-meta">
+
+
+
+<div class="quarto-title-meta column-page-left">
+
+    
+  
+    
   </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="https://orcid.org/0000-0002-0394-3827" class="about-link" rel="" target="">
-     <span class="about-link-text"><i class="ai  ai-orcid" aria-label="orcid"></i></span>
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://github.com/danieliavila" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">GitHub</span>
-  </a>
-  <a href="mailto:daniel.avila@su.se" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">Email</span>
-  </a>
+
+
+<p>A curated selection of my past and ongoing private and public consulting.</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+
 </div>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-
-<section id="overview" class="level2">
-<h2 data-anchor-id="overview">Overview</h2>
-<p>Welcome to my research, consultancy and opinion portfolio. My work focuses on sustainability sciences at large with a special focus on industrial ecology, social-ecological systems and social ecology. While I mostly engage with quantitative analyses, I have also explored and applied qualitative methodologies spanning workshops, reviews, interviews, among others. At my core, I approach this with a complex systems lens.</p>
-<p>This portal serves as an interactive hub for my on-going projects, including materials prepared for the <strong>World Biodiversity Forum at Davos, Switzerland</strong>.</p>
-<p>My ongoing projects are mostly associated with my PhD at the <a href="https://www.stockholmresilience.org">Stockholm Resilience Centre | Stockholm University</a>, including:</p>
-<section id="research" class="level3">
-<h3 data-anchor-id="research">Research</h3>
-<ul>
-<li><a href="./research/art1-phd.html">Accounting for biodiversity impacts of consumption and production: current gaps and frontiers.</a></li>
-<li><a href="./research/art3-phd.html">The Hidden Cost of Biodiversity and Land Use: How Ecological Models Shape our Biodiversity Metrics.</a></li>
-<li><a href="./research/art3-phd.html">Planetary Bundles Embedded in trade.</a></li>
-<li><a href="./research/art5-phd.html">Historical Agronomic Dataset - Insights from Mexico (2012 - 2022). Expanded and harmonized version.</a></li>
-</ul>
-</section>
-</section>
-<section id="teaching" class="level2">
-<h2 data-anchor-id="teaching">### Teaching</h2>
-<ul>
-<li></li>
-</ul>
-<!--
-## Key Focus Areas
-* **-----:**
-* **-----:**
-* **Corporate Sustainability:** 
--->
-
-
-</section>
-</main></div>
-</div>
- <!-- /main -->
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

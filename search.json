@@ -1,31 +1,38 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Research & Projects",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "A curated selection of my ongoing academic research.\n\n\n\n\n\n\n\n\n\n\n\n\nWBF-Davos\n\n\n\nConference\n\nBiodiversity\n\nMetrics\n\nLCA\n\nEEMRIO\n\n\n\nLive overview of the work presented at the World Biodiversity Forum in 2026.\n\n\n\nJun 12, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "A curated selection of my ongoing academic research.\n\n\n\n\n\n\n\n\n\n\n\n\nart2-phd\n\n\n\n\n\n\n\n\n\n\n\n\n\nAccounting for biodiversity impacts of consumption and production: current gaps and frontiers.\n\n\n\nArticle\n\nBiodiversity\n\nMetrics\n\nLCA\n\nEEMRIO\n\n\n\n\n\n\nJun 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nPlanetary Boundaries Embedded in Trade.\n\n\n\nArticle\n\nPlanetary Boundaries\n\nEEMRIO\n\nMetrics\n\n\n\n\n\n\nJun 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nPlanetary Boundaries Embedded in Trade.\n\n\n\nArticle\n\nLCA\n\nStudy Case\n\nAgriculture\n\nMexico\n\n\n\n\n\n\nJun 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nWBF-Davos\n\n\n\nConference\n\nBiodiversity\n\nMetrics\n\nLCA\n\nEEMRIO\n\n\n\nLive overview of the work presented at the World Biodiversity Forum in 2026. We submitted\n\n\n\nJun 12, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/art5-phd.html",
+    "href": "research/art5-phd.html",
+    "title": "Planetary Boundaries Embedded in Trade.",
+    "section": "",
+    "text": "Description\n\nDownload harmonised database (early view, SQL)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Daniel IAO",
     "section": "",
-    "text": "Welcome to my research and consultancy portfolio. My work focuses on —————————————————.\nThis portal serves as an interactive hub for my on-going projects, including materials prepared for the World Biodiversity Forum at Davos, Switzerland."
+    "text": "Welcome to my research, consultancy and opinion portfolio. My work focuses on sustainability sciences at large with a special focus on industrial ecology, social-ecological systems and social ecology. While I mostly engage with quantitative analyses, I have also explored and applied qualitative methodologies spanning workshops, reviews, interviews, among others. At my core, I approach this with a complex systems lens.\nThis portal serves as an interactive hub for my on-going projects, including materials prepared for the World Biodiversity Forum at Davos, Switzerland.\nMy ongoing projects are mostly associated with my PhD at the Stockholm Resilience Centre | Stockholm University, including:\n\n\n\nAccounting for biodiversity impacts of consumption and production: current gaps and frontiers.\nThe Hidden Cost of Biodiversity and Land Use: How Ecological Models Shape our Biodiversity Metrics.\nPlanetary Bundles Embedded in trade.\nHistorical Agronomic Dataset - Insights from Mexico (2012 - 2022). Expanded and harmonized version."
   },
   {
     "objectID": "index.html#overview",
     "href": "index.html#overview",
     "title": "Daniel IAO",
     "section": "",
-    "text": "Welcome to my research and consultancy portfolio. My work focuses on —————————————————.\nThis portal serves as an interactive hub for my on-going projects, including materials prepared for the World Biodiversity Forum at Davos, Switzerland."
+    "text": "Welcome to my research, consultancy and opinion portfolio. My work focuses on sustainability sciences at large with a special focus on industrial ecology, social-ecological systems and social ecology. While I mostly engage with quantitative analyses, I have also explored and applied qualitative methodologies spanning workshops, reviews, interviews, among others. At my core, I approach this with a complex systems lens.\nThis portal serves as an interactive hub for my on-going projects, including materials prepared for the World Biodiversity Forum at Davos, Switzerland.\nMy ongoing projects are mostly associated with my PhD at the Stockholm Resilience Centre | Stockholm University, including:\n\n\n\nAccounting for biodiversity impacts of consumption and production: current gaps and frontiers.\nThe Hidden Cost of Biodiversity and Land Use: How Ecological Models Shape our Biodiversity Metrics.\nPlanetary Bundles Embedded in trade.\nHistorical Agronomic Dataset - Insights from Mexico (2012 - 2022). Expanded and harmonized version."
   },
   {
-    "objectID": "index.html#key-focus-areas",
-    "href": "index.html#key-focus-areas",
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
     "title": "Daniel IAO",
-    "section": "Key Focus Areas",
-    "text": "Key Focus Areas\n\n—–:\n—–:\nCorporate Sustainability:"
+    "section": "### Teaching",
+    "text": "### Teaching"
   },
   {
     "objectID": "about.html",
@@ -35,8 +42,29 @@
     "text": "About this site"
   },
   {
-    "objectID": "projects/davos-poster.html",
-    "href": "projects/davos-poster.html",
+    "objectID": "consulting.html",
+    "href": "consulting.html",
+    "title": "Consulting",
+    "section": "",
+    "text": "A curated selection of my past and ongoing private and public consulting.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/art1-phd.html",
+    "href": "research/art1-phd.html",
+    "title": "Accounting for biodiversity impacts of consumption and production: current gaps and frontiers.",
+    "section": "",
+    "text": "Description\n\n[Download Davos Poster (PDF)] \nDownload First Pre-print (PDF)"
+  },
+  {
+    "objectID": "research/art3-phd.html",
+    "href": "research/art3-phd.html",
+    "title": "Planetary Boundaries Embedded in Trade.",
+    "section": "",
+    "text": "Description"
+  },
+  {
+    "objectID": "research/davos-poster.html",
+    "href": "research/davos-poster.html",
     "title": "WBF-Davos",
     "section": "",
     "text": "Presentation Materials\n\n[Download Presentation Poster (PDF)] \nDownload First Pre-print (PDF)"
