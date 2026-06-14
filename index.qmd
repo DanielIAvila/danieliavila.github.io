@@ -10,7 +10,7 @@ about:
       href: https://orcid.org/0000-0002-0394-3827
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/YOUR-LINKEDIN-USERNAME
+      href: https://www.linkedin.com/in/daniel-itzamna-avila-ortega/
     - icon: github
       text: GitHub
       href: https://github.com/danieliavila
@@ -58,12 +58,4 @@ My ongoing projects are mostly associated with my PhD at the [Stockholm Resilien
 
 - 
 -->
-<!--
-```{=html}
 
-## Key Focus Areas
-* **-----:**
-* **-----:**
-* **Corporate Sustainability:** 
--->
-```

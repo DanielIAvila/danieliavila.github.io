@@ -52,5 +52,5 @@ rsconnect/
 **/*.quarto_ipynb
 
 # Specific in-building sections
-.about.qmd
-.research/davos-poster.qmd
+about.qmd
+research/davos-poster.qmd
