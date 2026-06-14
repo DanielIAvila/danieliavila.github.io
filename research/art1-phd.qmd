@@ -1,0 +1,16 @@
+---
+title: "Accounting for biodiversity impacts of consumption and production: current gaps and frontiers."
+description: " "
+date: "2026-06-12"
+categories: [Article, Biodiversity, Metrics, LCA, EEMRIO]
+---
+
+### Description
+
+
+
+
+
+* [Download Davos Poster (PDF)] <!-- (../assets/davos_2026_poster.pdf) -->
+
+* [Download First Pre-print (PDF)](https://ecoevorxiv.org/repository/view/9107/) 

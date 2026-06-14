@@ -8,15 +8,19 @@ website:
     background: light
     collapse: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - href: projects.qmd
-        text: Research & Projects
-      - href: databases.qmd
-        text: Interactive Tools
-      - href: consultancy.qmd
-        text: Consultancy
+      - text: Home    
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Consulting
+        href: consulting.qmd
+      #- about.qmd
+      #- href: projects.qmd
+      #  text: Research
+      #- href: databases.qmd
+      #  text: Interactive Tools
+      #- href: consultancy.qmd
+      #  text: Consultancy
     right: 
       - text: "{{< ai orcid >}}"
         href: https://orcid.org/0000-0002-0394-3827

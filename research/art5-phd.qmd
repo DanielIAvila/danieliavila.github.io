@@ -1,0 +1,13 @@
+---
+title: "Planetary Boundaries Embedded in Trade."
+description: " "
+date: "2026-06-12"
+categories: [Article, LCA, Study Case, Agriculture, Mexico]
+---
+
+### Description
+
+
+
+
+* [Download harmonised database (early view, SQL)](https://doi.org/10.5281/zenodo.17225594) 

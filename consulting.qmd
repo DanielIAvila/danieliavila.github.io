@@ -1,7 +1,7 @@
 ---
-title: "Research & Projects"
+title: "Consulting"
 listing:
-  contents: projects
+  contents: consulting
   sort: "date desc"
   type: grid
   categories: true
@@ -11,4 +11,4 @@ listing:
 page-layout: full
 ---
 
-A curated selection of my ongoing academic research.
+A curated selection of my past and ongoing private and public consulting.

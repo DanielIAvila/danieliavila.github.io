@@ -17,15 +17,32 @@ about:
     - icon: envelope
       text: Email
       href: "mailto:daniel.avila@su.se"
+  #type: grid                 # Options: grid, default (list), or table
+  #sort: "date desc"          # Sorts newest projects first
+  #categories: true           # Adds clickable category tags (e.g., "Python", "R")
 ---
 
 
 ## Overview
-Welcome to my research and consultancy portfolio. My work focuses on ---------------------------------------------------.
+Welcome to my research, consultancy and opinion portfolio. My work focuses on sustainability sciences at large with a special focus on industrial ecology, social-ecological systems and social ecology. While I mostly engage with quantitative analyses, I have also explored and applied qualitative methodologies spanning workshops, reviews, interviews, among others. At my core, I approach this with a complex systems lens. 
 
 This portal serves as an interactive hub for my on-going projects, including materials prepared for the **World Biodiversity Forum at Davos, Switzerland**.
 
+My ongoing projects are mostly associated with my PhD at the [Stockholm Resilience Centre | Stockholm University](https://www.stockholmresilience.org), including:
+
+### Research 
+- [Accounting for biodiversity impacts of consumption and production: current gaps and frontiers.](research/art1-phd.qmd) 
+- [The Hidden Cost of Biodiversity and Land Use: How Ecological Models Shape our Biodiversity Metrics.](research/art3-phd.qmd)
+- [Planetary Bundles Embedded in trade.](research/art3-phd.qmd)
+- [Historical Agronomic Dataset - Insights from Mexico (2012 - 2022). Expanded and harmonized version.](research/art5-phd.qmd)
+
+### Teaching
+- 
+- 
+
+<!--
 ## Key Focus Areas
 * **-----:**
 * **-----:**
 * **Corporate Sustainability:** 
+-->
