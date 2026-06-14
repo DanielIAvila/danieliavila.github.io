@@ -1,13 +1,17 @@
 ---
-title: "Planetary Boundaries Embedded in Trade."
+title: "Sustainable Agriculture and Planetary Boundaries: Exploring the Socioeconomic and Socio-ecological footprints of Mexico’s Agricultural Sector."
 description: " "
 date: "2026-06-12"
-categories: [Article, LCA, Study Case, Agriculture, Mexico]
+categories: [Article, LCA, Study Case, Agriculture, Mexico, SES, IIASA]
 ---
 
 ### Description
 
+Conventional agriculture, with its heavy reliance on agrochemicals, technology and extensive practices, poses significant threats to biodiversity, human health, and largely contributes to climate change,
+biodiversity loss and land use change. Yet, its role in providing widespread and affordable food is undeniable, creating a critical dichotomy with alternative, agroecological systems. The transition to sustainable farming is fraught with challenges, including high labour demands and (bio)inputs, and structural barriers, highlighting the urgent need for new approaches. Particularly, since both systems underpin differentiated socio-economic and socioecological profiles in their production practices.
 
+To understand the real diversity and complexity of these agricultural practices, we processed a dataset covering more than 50,000 Mexican farms. We assembled farming archetypes based on observed practices, to which we coupled socioeconomic and socio-ecological footprints.
 
+**OBS!** This work took place while attending the Young Scientists Summer Program at the [International Institute for Applied Systems Analysis (IIASA).](https://iiasa.ac.at/early-career/yssp) A Preliminary harmonised dataset is available.
 
-* [Download harmonised database (early view, SQL)](https://doi.org/10.5281/zenodo.17225594) 
+* [Historical Agronomic Dataset - Insights from Mexico (2012 - 2022). Expanded and harmonized version. (early view, SQL)](https://doi.org/10.5281/zenodo.17225594) 

@@ -2,15 +2,78 @@
 title: "Accounting for biodiversity impacts of consumption and production: current gaps and frontiers."
 description: " "
 date: "2026-06-12"
-categories: [Article, Biodiversity, Metrics, LCA, EEMRIO]
+categories: [Article, Conference, Biodiversity, Metrics, LCA, EEMRIO]
 ---
 
 ### Description
 
+Current production and consumption patterns are the primary drivers of global biodiversity loss. While companies and governments increasingly attempt to calculate their "biodiversity footprints", the metrics they rely on are vast, wide and diverse.
 
+To understand the landscape of biodiversity footprinting, we conducted a systematic map using NLP models (not AI!) to filter over 1.2 million scientific records aiming at identifying _"what is measured and how"_ when we talk about impacts on biodiversity. 
 
+**OBS!** We are actively working on this piece after a peer-review round. Stay tunned for the pre-print and the associated database.
 
+<!--
+::: {.callout-important appearance="simple"}
+## Executive Takeaway
+**Current biodiversity footprint tools are playing favorites.** They are highly optimized for tracking land use impacts on charismatic land animals (birds, mammals) and trees. However, they almost completely ignore genetic diversity, entire marine and freshwater ecosystems, and vital species like fish, insects, and fungi.
+:::
 
-* [Download Davos Poster (PDF)] <!-- (../assets/davos_2026_poster.pdf) -->
+## The Metric Landscape
 
-* [Download First Pre-print (PDF)](https://ecoevorxiv.org/repository/view/9107/) 
+Toggle between the simplified executive breakdown and the technical methodology below.
+
+::: {.panel-tabset}
+
+### 📊 Executive Summary
+
+#### 1. Evolution of the Field
+Biodiversity metrics have expanded significantly since the late 1990s. Early tools focused almost exclusively on **land use** (deforestation, habitat fragmentation). Modern frameworks have evolved to factor in multi-dimensional pressures, including **climate change, pollution, invasive species, and overexploitation**.
+
+#### 2. The Four "Metric Families"
+We classified current biodiversity footprint tools into four distinct operational strategies:
+*   **Impact Assessment (64%):** Heavily dominant. These calculate the direct final damage an activity inflicts on a species using fixed ecological models.
+*   **Pressure-Impact (12%):** Links raw supply chain pressures directly to potential outcomes.
+*   **Combined Frameworks (10%):** Hybrid models trying to bridge supply chain pressure with specific spatial impacts.
+*   **State-Based Metrics (5%):** Focuses on tracking the current physical health or abundance of an ecosystem over time.
+
+#### 3. Critical Methodological Gaps
+If you are using mainstream footprint tools for corporate ESG or policy decisions, your metrics likely contain massive blind spots:
+*   **Taxonomic Bias:** Excellent tracking for *birds, mammals, reptiles, amphibians, and vascular plants*. Severe underrepresentation of *fish, insects, algae, fungi, and non-insect invertebrates*.
+*   **Structural Gaps:** Most metrics function strictly at the *species* level. Very few scale up to evaluate *entire ecosystems*, and **none** adequately capture *genetic diversity*.
+
+### 🔬 Technical Methodology & Models
+
+Our systematic literature mapping queried the **OpenAlex** database, scanning over 1,200,000 records. Using natural language processing (NLP) models and a cosine similarity index, we isolated a corpus of ~7,000 papers, ultimately reviewing the 154 foundational works.
+
+The dominant **Impact Assessment Metrics (64%)** rely primarily on three quantitative ecological models to map specific industrial pressures to biological damage:
+
+| Pressure Type | Ecological Model Utilized | Operational Scope |
+|:---|:---|:---|
+| **Land Use** | Species–Area Relationships (SAR) & Equivalent Connected Areas | Calculates habitat fragmentation and land transformation impacts. |
+| **Water Alteration** | Species–Discharge Relationships | Models the degradation of freshwater biomes from flow changes. |
+| **Chemical Pollution** | Species Sensitivity Distributions (SSD) | Predicts toxicological thresholds across variable species groups. |
+
+*Diversity Dimensions Tracked:* Current paradigms are highly specialized around **taxonomic diversity** (species counts) and **functional diversity** (ecological roles), leaving **phylogenetic diversity** (evolutionary history) substantially underrepresented.
+:::
+
+## Looking Ahead
+
+For biodiversity footprints to serve as actionable tools rather than greenwashing mechanisms, future frameworks must intentionally bridge industrial ecology with conservation biology. Consulting and corporate frameworks must push to integrate the "forgotten realms" of insects, fungi, and marine invertebrates into standard risk assessments.
+
+***
+
+### Cite This Work
+If you use this taxonomy or data in your consulting frameworks, please cite our full review paper:
+
+> Avila-Ortega, D. I. (2025). *Accounting for biodiversity impacts of consumption and production: current gaps and frontiers.* EcoEvoRxiv. 
+
+-->
+
+* [Download Pre-print (PDF; in peer-review)](https://ecoevorxiv.org/repository/view/9107/)
+
+<!--
+* [Download Davos Poster (PDF)](../assets/davos_2026_poster.pdf) 
+-->
+
+ 

@@ -1,5 +1,14 @@
 ---
-title: "art2-phd"
-format: html
+title: "The Hidden Cost of Biodiversity and Land Use: How Ecological Models Shape our Biodiversity Metrics."
+description: " "
+date: "2026-06-12"
+categories: [Article, Biodiversity, Metrics, LCA, Terrestrial, Species]
 ---
 
+### Description
+
+Land-use and land-use change (LULUC) remain the primary drivers of terrestrial biodiversity loss globally. Quantifying these impacts has a long-standing tradition within frameworks like Life Cycle Assessment (LCA) and Environmentally Extended Multi-Regional Input-Output (EE-MRIO) models. Yet, many of these frameworks have different entry points to assess the cause-effect chains that LULUC have on species and ecosystems.
+
+In this piece, we assess and compare 11 biodiversity metrics at the ecoregion level at the global scale for five species groups (amphibians, birds, mammals, reptiles and vascular plants). With this endevour we aim to uncover *where models (dis)agree and why*.
+
+**OBS!** We are actively working on this piece and the submission should take place during the summer. Stay tunned for the pre-print and the associated database.
