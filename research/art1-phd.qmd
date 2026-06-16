@@ -11,7 +11,7 @@ Current production and consumption patterns are the primary drivers of global bi
 
 To understand the landscape of biodiversity footprinting, we conducted a systematic map using NLP models (not AI!) to filter over 1.2 million scientific records aiming at identifying _"what is measured and how"_ when we talk about impacts on biodiversity. 
 
-**OBS!** We are actively working on this piece after a peer-review round. Stay tunned for the pre-print and the associated database.
+**OBS!** We are actively working on this piece after a peer-review round. Stay tunned for the second version of the pre-print and the associated database.
 
 <!--
 ::: {.callout-important appearance="simple"}
@@ -70,7 +70,7 @@ If you use this taxonomy or data in your consulting frameworks, please cite our 
 
 -->
 
-* [Download Pre-print (PDF; in peer-review)](https://ecoevorxiv.org/repository/view/9107/)
+* [Download Pre-print (PDF; prior peer-review)](https://ecoevorxiv.org/repository/view/9107/)
 
 <!--
 * [Download Davos Poster (PDF)](../assets/davos_2026_poster.pdf) 
