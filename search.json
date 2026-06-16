@@ -4,14 +4,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "A curated selection of my ongoing academic research.\n\n\n\n\n\n\n\n\n\n\n\n\nAccounting for biodiversity impacts of consumption and production: current gaps and frontiers.\n\n\n\nArticle\n\nConference\n\nBiodiversity\n\nMetrics\n\nLCA\n\nEEMRIO\n\n\n\n\n\n\nJun 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nThe Hidden Cost of Biodiversity and Land Use: How Ecological Models Shape our Biodiversity Metrics.\n\n\n\nArticle\n\nBiodiversity\n\nMetrics\n\nLCA\n\nTerrestrial\n\nSpecies\n\n\n\n\n\n\nJun 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nPlanetary Boundaries Embedded in Trade.\n\n\n\nArticle\n\nPlanetary Boundaries\n\nEEMRIO\n\nMetrics\n\n\n\n\n\n\nJun 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nSustainable Agriculture and Planetary Boundaries: Exploring the Socioeconomic and Socio-ecological footprints of Mexico’s Agricultural Sector.\n\n\n\nArticle\n\nLCA\n\nStudy Case\n\nAgriculture\n\nMexico\n\nSES\n\nIIASA\n\n\n\n\n\n\nJun 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nWBF-Davos\n\n\n\nConference\n\nBiodiversity\n\nMetrics\n\nLCA\n\nEEMRIO\n\n\n\nLive overview of the work presented at the World Biodiversity Forum in 2026. We submitted\n\n\n\nJun 12, 2026\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/art5-phd.html",
-    "href": "research/art5-phd.html",
-    "title": "Sustainable Agriculture and Planetary Boundaries: Exploring the Socioeconomic and Socio-ecological footprints of Mexico’s Agricultural Sector.",
-    "section": "",
-    "text": "Description\nConventional agriculture, heavily dependent on agrochemicals, provides affordable and widespread food around the world. Yet, it comes at a massive cost, driving climate change, biodiversity loss, environmental degradation, and impacts on human health. Transitioning to alternatives, including agroecological systems, isn’t easy and straightforward; these systems face steep structural barriers, often requiring intense labour, specialised inputs (e.g., biofertilisants) and varied practices and capital assets.\nTo understand the real diversity and complexity of conventional and agroecological systems and their diversified agricultural practices, we processed a dataset covering more than 50,000 Mexican farms. We assembled farming archetypes based on observed practices, to which we coupled socioeconomic and socio-ecological footprints.\nOBS! This work took place while attending the Young Scientists Summer Program at the International Institute for Applied Systems Analysis (IIASA). A Preliminary harmonised dataset is available.\n\nHistorical Agronomic Dataset - Insights from Mexico (2012 - 2022). Expanded and harmonized version. (early view, SQL)"
+    "text": "A curated selection of my ongoing academic research.\n\n\n\n\n\n\n\n\n\n\n\n\nAccounting for biodiversity impacts of consumption and production: current gaps and frontiers.\n\n\n\nArticle\n\nConference\n\nBiodiversity\n\nMetrics\n\nLCA\n\nEEMRIO\n\n\n\n\n\n\nJun 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nThe Hidden Cost of Biodiversity and Land Use: How Ecological Models Shape our Biodiversity Metrics.\n\n\n\nArticle\n\nBiodiversity\n\nMetrics\n\nLCA\n\nTerrestrial\n\nSpecies\n\n\n\n\n\n\nJun 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nSustainable Agriculture and Planetary Boundaries: Exploring the Socioeconomic and Socio-ecological footprints of Mexico’s Agricultural Sector.\n\n\n\nArticle\n\nLCA\n\nStudy Case\n\nAgriculture\n\nMexico\n\nSES\n\nIIASA\n\n\n\n\n\n\nJun 12, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/art2-phd.html",
@@ -56,17 +49,10 @@
     "text": "Description\nCurrent production and consumption patterns are the primary drivers of global biodiversity loss. While companies and governments increasingly attempt to calculate their “biodiversity footprints”, the metrics they rely on are diverse.\nTo understand the landscape of biodiversity footprinting, we conducted a systematic map using Natural Language Processing (NLP) models ( not AI! ) to filter over 1.2 million scientific records aiming at identifying “what is measured and how” when we talk about impacts on biodiversity.\nPlease note: We are actively updating this piece following a round of peer review. Stay tuned for the second version of our preprint and the associated database! This current version should be read as a preliminary draft; the upcoming release is highly polished, includes new data spanning 2022 to 2025, and provides much greater detail around biodiversity metrics.\n\nDownload Pre-print (PDF; prior to peer-review.)"
   },
   {
-    "objectID": "research/art3-phd.html",
-    "href": "research/art3-phd.html",
-    "title": "Planetary Boundaries Embedded in Trade.",
+    "objectID": "research/art5-phd.html",
+    "href": "research/art5-phd.html",
+    "title": "Sustainable Agriculture and Planetary Boundaries: Exploring the Socioeconomic and Socio-ecological footprints of Mexico’s Agricultural Sector.",
     "section": "",
-    "text": "Description"
-  },
-  {
-    "objectID": "research/davos-poster.html",
-    "href": "research/davos-poster.html",
-    "title": "WBF-Davos",
-    "section": "",
-    "text": "Presentation Materials\n\n[Download Presentation Poster (PDF)] \nDownload First Pre-print (PDF)"
+    "text": "Description\nConventional agriculture, heavily dependent on agrochemicals, provides affordable and widespread food around the world. Yet, it comes at a massive cost, driving climate change, biodiversity loss, environmental degradation, and impacts on human health. Transitioning to alternatives, including agroecological systems, isn’t easy and straightforward; these systems face steep structural barriers, often requiring intense labour, specialised inputs (e.g., biofertilisants) and varied practices and capital assets.\nTo understand the real diversity and complexity of conventional and agroecological systems and their diversified agricultural practices, we processed a dataset covering more than 50,000 Mexican farms. We assembled farming archetypes based on observed practices, to which we coupled socioeconomic and socio-ecological footprints.\nOBS! This work took place while attending the Young Scientists Summer Program at the International Institute for Applied Systems Analysis (IIASA). A Preliminary harmonised dataset is available.\n\nHistorical Agronomic Dataset - Insights from Mexico (2012 - 2022). Expanded and harmonized version. (early view, SQL)"
   }
 ]
