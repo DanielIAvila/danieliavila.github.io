@@ -7,11 +7,13 @@ categories: [Article, Conference, Biodiversity, Metrics, LCA, EEMRIO]
 
 ### Description
 
-Current production and consumption patterns are the primary drivers of global biodiversity loss. While companies and governments increasingly attempt to calculate their "biodiversity footprints", the metrics they rely on are vast, wide and diverse.
+Current production and consumption patterns are the primary drivers of global biodiversity loss. While companies and governments increasingly attempt to calculate their "biodiversity footprints", the metrics they rely on are diverse.
 
-To understand the landscape of biodiversity footprinting, we conducted a systematic map using NLP models (not AI!) to filter over 1.2 million scientific records aiming at identifying _"what is measured and how"_ when we talk about impacts on biodiversity. 
+To understand the landscape of biodiversity footprinting, we conducted a systematic map using Natural Language Processing (NLP) models ( _not AI!_ ) to filter over 1.2 million scientific records aiming at identifying _"what is measured and how"_ when we talk about impacts on biodiversity. 
 
-**OBS!** We are actively working on this piece after a peer-review round. Stay tunned for the second version of the pre-print and the associated database.
+**Please note:** We are actively updating this piece following a round of peer review. Stay tuned for the second version of our preprint and the associated database! This current version should be read as a preliminary draft; the upcoming release is highly polished, includes new data spanning 2022 to 2025, and provides much greater detail around biodiversity metrics.
+
+* [Download Pre-print (PDF; prior to  peer-review.)](https://ecoevorxiv.org/repository/view/9107/)
 
 <!--
 ::: {.callout-important appearance="simple"}
@@ -70,7 +72,7 @@ If you use this taxonomy or data in your consulting frameworks, please cite our 
 
 -->
 
-* [Download Pre-print (PDF; prior peer-review)](https://ecoevorxiv.org/repository/view/9107/)
+
 
 <!--
 * [Download Davos Poster (PDF)](../assets/davos_2026_poster.pdf) 
